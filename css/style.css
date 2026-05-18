@@ -1006,6 +1006,18 @@ section {
     font-size: 14px;
   }
 
+   .desktop-brand {
+    display: none;
+  }
+
+  .mobile-brand {
+    display: block;
+  }
+
+  .brand-text span {
+    font-size: 10px;
+  }
+   
   .topbar {
     display: none;
   }
@@ -1166,6 +1178,7 @@ section {
   }
 }
 
+
 @media (max-width: 430px) {
 
   .container {
@@ -1195,21 +1208,6 @@ section {
      display: block;
      object-fit: contain;
    }
-}
-
-
-/* ==================== BRAND TEXT ==================== */
-
-.desktop-brand {
-  display: none;
-}
-
-.mobile-brand {
-  display: block;
-}
-
-.brand span span {
-  font-size: 10px;
 }
 
 
