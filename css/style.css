@@ -1197,17 +1197,8 @@ section {
    }
 }
 
+
 /* ==================== BRAND TEXT ==================== */
-
-.brand-text {
-  display: flex;
-  flex-direction: column;
-  line-height: 1.05;
-}
-
-.mobile-brand {
-  display: none;
-}
 
 .desktop-brand {
   display: none;
@@ -1219,4 +1210,17 @@ section {
 
 .brand span span {
   font-size: 10px;
+}
+
+
+/* ==================== BRAND TEXT ==================== */
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.05;
+}
+
+.mobile-brand {
+  display: none;
 }
