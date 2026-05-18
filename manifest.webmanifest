@@ -1,1 +1,38 @@
-{"name":"TOURAN TRADING COMPANY","short_name":"TOURANTC","start_url":"./index.html","display":"standalone","background_color":"#f7fbff","theme_color":"#007BFF","icons":[{"src":"jpg/logo/Logo.png","sizes":"500x400","type":"image/png"}]}
+{
+  "name": "TOURAN TRADING COMPANY",
+  "short_name": "TOURANTC",
+  "description": "TOURAN TRADING COMPANY - Meyvə, tərəvəz və sitrus məhsullarının topdan alış-satışı və logistika şirkəti.",
+  "lang": "az",
+  "dir": "ltr",
+
+  "start_url": "./index.html",
+  "scope": "./",
+
+  "display": "standalone",
+  "orientation": "portrait-primary",
+
+  "background_color": "#f7fbff",
+  "theme_color": "#007BFF",
+
+  "categories": [
+    "business",
+    "shopping",
+    "logistics",
+    "trade"
+  ],
+
+  "icons": [
+    {
+      "src": "jpg/logo/Logo.png",
+      "sizes": "500x400",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "jpg/logo/Logo.png",
+      "sizes": "500x400",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
