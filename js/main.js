@@ -52,7 +52,7 @@ const dict = {
 
     teamTitle: "Komandamız",
     teamText:
-      "Ad və soyadlar müştərinin verdiyi formada saxlanılıb, vəzifələr AZ/EN üzrə dəyişir.",
+      "Peşəkar komandamız beynəlxalq meyvə və tərəvəz ticarəti sahəsində fəaliyyət göstərir.",
     ceoRole: "Baş İcraçı Direktor (CEO)",
     intlRole: "Beynəlxalq Əməliyyatlar Üzrə Nümayəndə",
     domRole: "Daxili Əməliyyatlar Üzrə Nümayəndə",
@@ -70,7 +70,7 @@ const dict = {
     send: "Email ilə göndər",
 
     footerText:
-      "TOURAN TRADING COMPANY — meyvə, tərəvəz və sitrus məhsulları üzrə topdan alış-satış və logistika yönümlü korporativ şirkət.",
+     "TOURAN TRADING COMPANY — meyvə, tərəvəz və sitrus məhsullarının beynəlxalq topdan alış-satışı və logistika sahəsində fəaliyyət göstərən peşəkar ticarət şirkəti.",
     address:
       "Azərbaycan, Bakı şəhəri, Qaradağ rayonu, Meyvəli Logistika Mərkəzi",
     rights: "Bütün hüquqlar qorunur.",
@@ -126,7 +126,7 @@ const dict = {
 
     teamTitle: "Our Team",
     teamText:
-      "Names stay exactly as provided by the client; roles change by AZ/EN language.",
+      "Our professional team operates in the international fruit and vegetable trade sector.",
     ceoRole: "Chief Executive Officer (CEO)",
     intlRole: "International Operations Representative",
     domRole: "Domestic Operations Representative",
@@ -144,7 +144,7 @@ const dict = {
     send: "Send by email",
 
     footerText:
-      "TOURAN TRADING COMPANY — a corporate wholesale buying, selling and logistics-oriented company for fruit, vegetable and citrus products.",
+     "TOURAN TRADING COMPANY — a professional trading company specializing in international wholesale fruit, vegetable and citrus trade and logistics operations.",
     address: "Meyveli Logistics Center, Garadagh district, Baku, Azerbaijan",
     rights: "All rights reserved.",
 
