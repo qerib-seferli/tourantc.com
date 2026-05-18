@@ -1,3 +1,17 @@
+# =========================================================
+# TOURAN TRADING COMPANY
+# Robots.txt
+# https://www.tourantc.com
+# =========================================================
+
 User-agent: *
 Allow: /
+
+# Sistem və lazımsız fayllar
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /.git/
+
+# Sitemap
 Sitemap: https://www.tourantc.com/sitemap.xml
