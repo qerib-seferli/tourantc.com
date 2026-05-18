@@ -1196,3 +1196,27 @@ section {
      object-fit: contain;
    }
 }
+
+/* ==================== BRAND TEXT ==================== */
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.05;
+}
+
+.mobile-brand {
+  display: none;
+}
+
+.desktop-brand {
+  display: none;
+}
+
+.mobile-brand {
+  display: block;
+}
+
+.brand span span {
+  font-size: 10px;
+}
