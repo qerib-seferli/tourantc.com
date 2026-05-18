@@ -617,10 +617,15 @@ section {
 
 /* ==================== PANELS / WHY US ==================== */
 
-.why-grid,
-.quote-grid {
+.why-grid {
   display: grid;
   grid-template-columns: 1fr;
+  gap: 17px;
+}
+
+.quote-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 17px;
 }
 
