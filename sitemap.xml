@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Ana səhifə -->
   <url>
     <loc>https://www.tourantc.com/</loc>
     <lastmod>2026-05-18</lastmod>
@@ -11,7 +9,6 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Haqqımızda -->
   <url>
     <loc>https://www.tourantc.com/about.html</loc>
     <lastmod>2026-05-18</lastmod>
@@ -19,7 +16,6 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Məhsullar -->
   <url>
     <loc>https://www.tourantc.com/products.html</loc>
     <lastmod>2026-05-18</lastmod>
