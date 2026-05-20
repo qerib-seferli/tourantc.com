@@ -1249,3 +1249,16 @@ section {
 .mobile-brand {
   display: none;
 }
+
+
+/*============================================================================================*/
+.history-card{
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.history-card p{
+  margin-top: 14px;
+  line-height: 1.9;
+  color: var(--muted);
+}
