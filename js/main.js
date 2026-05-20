@@ -23,6 +23,15 @@ const dict = {
     ctaSell: "Bizə müraciət et",
 
 
+     warehouseProductsTitle: "Keyfiyyətli məhsullar",
+     warehouseProductsText:
+        "Təzə və seçilmiş məhsulların peşəkar tədarükü.",
+   
+     warehouseLogisticsTitle: "Sürətli logistika",
+     warehouseLogisticsText:
+        "Təhlükəsiz daşınma və operativ çatdırılma xidməti.",
+
+     
     productsTitle: "Məhsullarımız",
     productsText:
       "Topdan ticarət üçün təqdim etdiyimiz əsas meyvə, tərəvəz və sitrus məhsulları.",
@@ -58,7 +67,7 @@ const dict = {
 
     historyTitle: "Şirkət tarixi",
       historyText:
-        "TOURAN TRADING COMPANY meyvə və tərəvəz məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstərən etibarlı şirkətdir. Şirkətimiz keyfiyyətli məhsulları yerli və xarici istehsalçılardan diqqətlə seçərək müştərilərimizə ən təzə və etibarlı şəkildə çatdırmağı əsas məqsəd hesab edir. Peşəkar komandamız, sürətli logistika və məsuliyyətli xidmət anlayışı sayəsində satış sahəsində güvənilən tərəfdaşlardan birinə çevrilmişik. Müasir yanaşma, dürüst əməkdaşlıq və davamlı inkişaf prinsipləri ilə həm fərdi, həm də korporativ müştərilərimizə yüksək xidmət təqdim edirik. Məqsədimiz keyfiyyətli məhsul təminatını gücləndirmək, yerli istehsala dəstək olmaq və müştərilərimizlə uzunmüddətli etibarlı əməkdaşlıq qurmaqdır.",
+        "TOURAN TRADING COMPANY meyvə və tərəvəz məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstərən etibarlı şirkətdir. Şirkətimiz keyfiyyətli məhsulları yerli və xarici istehsalçılardan diqqətlə seçərək ölkəmizə və müştərilərimizə ən təzə və etibarlı şəkildə çatdırmağı əsas məqsəd hesab edir. Peşəkar komandamız, sürətli logistika və məsuliyyətli xidmət anlayışı sayəsində satış sahəsində güvənilən tərəfdaşlardan birinə çevrilmişik. Müasir yanaşma, dürüst əməkdaşlıq və davamlı inkişaf prinsipləri ilə həm fərdi, həm də korporativ müştərilərimizə yüksək xidmət təqdim edirik. Məqsədimiz keyfiyyətli məhsul təminatını gücləndirmək, yerli istehsala dəstək olmaq və müştərilərimizlə uzunmüddətli etibarlı əməkdaşlıq qurmaqdır.",
     structure: "Şəkil faylları və istifadə qaydası",
   },
 
@@ -78,6 +87,15 @@ const dict = {
     ctaSell: "Contact Us",
 
 
+     warehouseProductsTitle: "Quality products",
+     warehouseProductsText:
+        "Professional supply of fresh and carefully selected products.",
+      
+     warehouseLogisticsTitle: "Fast logistics",
+     warehouseLogisticsText:
+        "Safe transportation and fast delivery service.",
+
+     
     productsTitle: "Our Products",
     productsText:
       "Main fruit, vegetable and citrus products offered for wholesale trade.",
@@ -140,7 +158,7 @@ const productData = [
 
 /* ==================== SABİT MƏLUMATLAR ==================== */
 
-const COMPANY_EMAIL = "tourantradingcompany@gmail.com";
+const COMPANY_EMAIL = "yagub.b@mail.ru";
 const STORAGE_KEY = "tourantc_lang";
 
 /* ==================== KÖMƏKÇİ FUNKSİYALAR ==================== */
