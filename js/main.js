@@ -57,8 +57,8 @@ const dict = {
     rights: "Bütün hüquqlar qorunur.",
 
     historyTitle: "Şirkət tarixi",
-    historyText:
-      "TOURAN TRADING COMPANY meyvə, tərəvəz və sitrus məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstərən etibarlı ticarət şirkətidir.",
+      historyText:
+        "TOURAN TRADING COMPANY meyvə və tərəvəz məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstərən etibarlı şirkətdir. Şirkətimiz keyfiyyətli məhsulları yerli və xarici istehsalçılardan diqqətlə seçərək müştərilərimizə ən təzə və etibarlı şəkildə çatdırmağı əsas məqsəd hesab edir. Peşəkar komandamız, sürətli logistika və məsuliyyətli xidmət anlayışı sayəsində satış sahəsində güvənilən tərəfdaşlardan birinə çevrilmişik. Müasir yanaşma, dürüst əməkdaşlıq və davamlı inkişaf prinsipləri ilə həm fərdi, həm də korporativ müştərilərimizə yüksək xidmət təqdim edirik. Məqsədimiz keyfiyyətli məhsul təminatını gücləndirmək, yerli istehsala dəstək olmaq və müştərilərimizlə uzunmüddətli etibarlı əməkdaşlıq qurmaqdır.",
     structure: "Şəkil faylları və istifadə qaydası",
   },
 
@@ -111,8 +111,8 @@ const dict = {
     rights: "All rights reserved.",
 
     historyTitle: "Company History",
-    historyText:
-      "TOURAN TRADING COMPANY is a reliable trading company operating in wholesale and retail sales of fruit, vegetable and citrus products.",
+      historyText:
+        "TOURAN TRADING COMPANY is a reliable company operating in the wholesale and retail sale of fruit and vegetable products. Our company carefully selects quality products from local and international producers and considers delivering them to customers in the freshest and most reliable way as its main goal. Thanks to our professional team, fast logistics and responsible service approach, we have become one of the trusted partners in the industry. With a modern approach, honest cooperation and continuous development principles, we provide high-quality service to both individual and corporate customers. Our goal is to strengthen quality product supply, support local production and build long-term trusted relationships with our customers.",
     structure: "Image files and usage guide",
   },
 };
