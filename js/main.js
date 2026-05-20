@@ -39,7 +39,7 @@ const dict = {
     whyText:
       "Uzun illərin təcrübəsi, əlverişli logistika mövqeyi və birbaşa əlaqə imkanı.",
     f1: "Təcrübə",
-    f1t: "2002-ci ildən meyvə, tərəvəz və sitrus məhsulları sahəsində fəaliyyət göstəririk.",
+    f1t: "2002-ci ildən meyvə, tərəvəz və sitrus məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstəririk. Şirkətimiz keyfiyyətli məhsulları yerli və xarici istehsalçılardan seçərək müştərilərimizə ən təzə və etibarlı şəkildə təqdim etməyə xüsusi önəm verir.",
     f2: "Logistika mövqeyi",
     f2t: "Şirkət Bakı şəhəri, Qaradağ rayonu, Meyvəli Logistika Mərkəzində yerləşir.",
     f3: "Alış və satış",
