@@ -15,17 +15,13 @@ const dict = {
     contact: "Əlaqə",
     quote: "Təklif al",
 
-    heroEyebrow: "2002-ci ildən meyvə, tərəvəz və sitrus sahəsində",
+    heroEyebrow: "Meyvə, tərəvəz və sitrus məhsullarının ticarəti",
     heroTitle: "TOURAN TRADING COMPANY",
     heroText:
       "Meyvəli Logistika Mərkəzində yerləşən TOURAN TRADING COMPANY meyvə, tərəvəz və sitrus məhsullarının topdan alış-satışı üzrə fəaliyyət göstərir.",
     ctaProducts: "Məhsullara bax",
     ctaSell: "Bizə müraciət et",
 
-    since: "2002-ci ildən fəaliyyət",
-    created: "TOURAN 2023-cü ildə yaradılıb",
-    domain: "WWW.TOURANTC.COM",
-    center: "Meyvəli Logistika Mərkəzi",
 
     productsTitle: "Məhsullarımız",
     productsText:
@@ -34,21 +30,6 @@ const dict = {
     vegetables: "Tərəvəzlər",
     all: "Hamısı",
     importExport: "Topdan satış",
-
-    whyTitle: "Niyə TOURAN?",
-    whyText:
-      "Uzun illərin təcrübəsi, əlverişli logistika mövqeyi və birbaşa əlaqə imkanı.",
-    f1: "Təcrübə",
-    f1t: "2002-ci ildən meyvə, tərəvəz və sitrus məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstəririk. Şirkətimiz keyfiyyətli məhsulları yerli və xarici istehsalçılardan seçərək müştərilərimizə ən təzə və etibarlı şəkildə təqdim etməyə xüsusi önəm verir.",
-    f2: "Logistika mövqeyi",
-    f2t: "Şirkət Bakı şəhəri, Qaradağ rayonu, Meyvəli Logistika Mərkəzində yerləşir.",
-    f3: "Alış və satış",
-    f3t:
-      "Məhsul almaq və ya məhsul təklif etmək istəyən tərəfdaşlar üçün birbaşa əlaqə imkanı.",
-
-    cert: "Etibar və təhlükəsizlik",
-    certText:
-      "TOURANTC.COM domeni üçün təhlükəsiz bağlantı və SSL konfiqurasiyası nəzərdə tutulub.",
 
     teamTitle: "Komandamız",
     teamText:
@@ -77,7 +58,7 @@ const dict = {
 
     historyTitle: "Şirkət tarixi",
     historyText:
-      "Fəaliyyətimiz 2002-ci ildən başlayır. Bu təcrübə əsasında TOURAN TRADING COMPANY 2023-cü ildə yaradılıb.",
+      "TOURAN TRADING COMPANY meyvə, tərəvəz və sitrus məhsullarının topdan və pərakəndə satışı sahəsində fəaliyyət göstərən etibarlı ticarət şirkətidir.",
     structure: "Şəkil faylları və istifadə qaydası",
   },
 
@@ -89,17 +70,13 @@ const dict = {
     contact: "Contact",
     quote: "Get a Quote",
 
-    heroEyebrow: "Fruit, vegetable and citrus trade since 2002",
+    heroEyebrow: "Fruit, vegetable and citrus trade",
     heroTitle: "TOURAN TRADING COMPANY",
     heroText:
       "Located at Meyveli Logistics Center, TOURAN TRADING COMPANY operates in wholesale fruit, vegetable and citrus trade.",
     ctaProducts: "View Products",
     ctaSell: "Contact Us",
 
-    since: "Operating since 2002",
-    created: "TOURAN was founded in 2023",
-    domain: "WWW.TOURANTC.COM",
-    center: "Meyveli Logistics Center",
 
     productsTitle: "Our Products",
     productsText:
@@ -108,23 +85,6 @@ const dict = {
     vegetables: "Vegetables",
     all: "All",
     importExport: "Wholesale",
-
-    whyTitle: "Why TOURAN?",
-    whyText:
-      "Years of experience, a strong logistics location and direct communication.",
-    f1: "Experience",
-    f1t:
-      "We have been operating in the fruit, vegetable and citrus sector since 2002.",
-    f2: "Logistics Location",
-    f2t:
-      "The company is located at Meyveli Logistics Center, Garadagh district, Baku.",
-    f3: "Buying and Selling",
-    f3t:
-      "Direct contact opportunities for partners who want to buy products or offer supply.",
-
-    cert: "Trust and Security",
-    certText:
-      "Secure connection and SSL configuration are planned for the TOURANTC.COM domain.",
 
     teamTitle: "Our Team",
     teamText:
@@ -152,7 +112,7 @@ const dict = {
 
     historyTitle: "Company History",
     historyText:
-      "Our activity began in 2002. Based on this experience, TOURAN TRADING COMPANY was founded in 2023.",
+      "TOURAN TRADING COMPANY is a reliable trading company operating in wholesale and retail sales of fruit, vegetable and citrus products.",
     structure: "Image files and usage guide",
   },
 };
