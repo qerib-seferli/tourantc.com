@@ -1328,7 +1328,7 @@ section {
 .ig{
   width:42px;
   height:42px;
-  background:#fff;
+  background:transparent;
 }
 
 .wa img{
@@ -1337,8 +1337,10 @@ section {
 }
 
 .ig img{
-  width:24px;
-  height:24px;
+  width:34px;
+  height:34px;
+  display:block;
+  object-fit:contain;
 }
 
 .wa:hover,
