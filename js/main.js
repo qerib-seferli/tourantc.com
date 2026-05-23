@@ -59,6 +59,13 @@ const dict = {
     message: "Mesajınız",
     send: "Email ilə göndər",
 
+   quotePersonName: "IAGUB BAIRAMOV:",
+   quotePhoneLabel: "Telefon:",
+   quotePhoneText: "+994 50 202 13 10",
+   quotePhoneHref: "tel:+994502021310",
+   quoteEmailText: "yagub.b@mail.ru",
+   quoteEmailHref: "mailto:yagub.b@mail.ru",
+     
     footerText:
       "TOURAN TRADING COMPANY — meyvə, tərəvəz və sitrus məhsullarının topdan alış-satışı üzrə fəaliyyət göstərən ticarət şirkəti.",
     address:
@@ -123,6 +130,13 @@ const dict = {
     message: "Your message",
     send: "Send by email",
 
+   quotePersonName: "IASHA SADIKOV:",
+   quotePhoneLabel: "Phone:",
+   quotePhoneText: "+995 55 533 47 57",
+   quotePhoneHref: "tel:+995555334757",
+   quoteEmailText: "yashasadikov@gmail.com",
+   quoteEmailHref: "mailto:yashasadikov@gmail.com",
+     
     footerText:
       "TOURAN TRADING COMPANY — a trading company operating in wholesale fruit, vegetable and citrus products.",
     address: "Meyveli Logistics Center, Garadagh district, Baku, Azerbaijan",
@@ -213,6 +227,11 @@ function applyLang() {
     element.value = translate(key);
   });
 
+  $$("[data-i18n-href]").forEach((element) => {
+     const key = element.dataset.i18nHref;
+     element.href = translate(key);
+  });
+   
   $$(".lang button").forEach((button) => {
     button.classList.toggle("active", button.dataset.lang === currentLang);
   });
