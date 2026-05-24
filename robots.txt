@@ -1,15 +1,9 @@
 # =========================================================
 # TOURAN TRADING COMPANY
-# https://www.tourantc.com
+# https://tourantc.com
 # =========================================================
 
 User-agent: *
 Allow: /
 
-# Texniki qovluqlar
-Disallow: /cgi-bin/
-Disallow: /tmp/
-Disallow: /private/
-Disallow: /.git/
-
-Sitemap: https://www.tourantc.com/sitemap.xml
+Sitemap: https://tourantc.com/sitemap.xml
