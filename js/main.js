@@ -132,7 +132,7 @@ const dict = {
 
    quotePersonName: "IASHA SADIKOV:",
    quotePhoneLabel: "Phone:",
-   quotePhoneText: "+995 55 533 47 57",
+   quotePhoneText: "+995 555 33 47 57",
    quotePhoneHref: "tel:+995555334757",
    quoteEmailText: "yashasadikov@gmail.com",
    quoteEmailHref: "mailto:yashasadikov@gmail.com",
