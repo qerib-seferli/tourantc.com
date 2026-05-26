@@ -1,5 +1,8 @@
 # tourantc.com
-TOURANTC.COM
+TOURANTC.COM        TOURAN TRADING COMPANY
+
+YAQUB BAYRAMOV
+Telefon: +994 50 202 13 10     E-mail: yagub.b@mail.ru
 
 ---------------------------------------------------------------------------------------------------------------------------
 
